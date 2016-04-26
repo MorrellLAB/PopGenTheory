@@ -8,7 +8,7 @@
 
 ### Schedule
 
-##### April 27, 2016
+#### April 27, 2016
 
 **Material:** Molecular Evolution and Phylogenetics: Ch 12 
 
@@ -20,13 +20,13 @@ Discussion leader:
 - **Chaochih:** Section 12.5
 - **Shawn:** Section 12.6
 
-##### TBD
+#### TBD
 
 Material: TBD
 
 Discussion leader: TBD
 
-##### TBD
+#### TBD
 
 Material: TBD
 
