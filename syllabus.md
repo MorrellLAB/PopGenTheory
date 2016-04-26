@@ -32,15 +32,15 @@ Here are some long term goals for the discussion:
 
 ===
 
-### Coalescent Theory
+### Coalescence
 
-**Concept:**
+**Concept:** Coalescence
 
-**Topic:**
+**Topic:** Coalescent Theory
 
-**Associated material:**
+    Associated material: John Wakely Chapters 1-5
 
-**Associated tools:**
+**Associated tools:** Richard Hudson's MS
 
 ===
 
