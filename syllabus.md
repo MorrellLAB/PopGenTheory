@@ -32,7 +32,7 @@ Here are some long term goals for the discussion:
 
 ===
 
-### Coalescence
+### __Coalescence__
 
 **Concept:** Coalescence
 
