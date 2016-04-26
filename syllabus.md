@@ -38,9 +38,11 @@ Here are some long term goals for the discussion:
 
 **Topic:** Coalescent Theory
 
-    Associated material: John Wakely Chapters 1-5
+**Associated material:** 
+- John Wakely Chapters 1-5
 
-**Associated tools:** Richard Hudson's MS
+**Associated tools:** 
+- Richard Hudson's MS
 
 ===
 
