@@ -17,7 +17,6 @@ Here are some long term goals for the discussion:
 #### Neutral Theory
 
 - Polymorphism, divergence
-
 - Nearly Neutral Theory
 
 #### Measures of Divergence and Polymorphism
