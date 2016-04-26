@@ -12,69 +12,63 @@ Here are some long term goals for the discussion:
 
 # Syllabus
 
-### Molecular Evolution
+## Molecular Evolution
 
-**Concept:** Neutral Theory
+#### Neutral Theory
 
-Polymorphism, divergence
+- Polymorphism, divergence
 
-Nearly Neutral Theory
+- Nearly Neutral Theory
 
-**Concept:** Measures of Divergence and Polymorphism
+#### Measures of Divergence and Polymorphism
 
-**Concept:** Molecular clock
+#### Molecular clock
 
-**Concept:** Test of Neutrality
+#### Test of Neutrality
 
-The neutral theory of molecular evolution
-- TBD
+- The neutral theory of molecular evolution
+    - TBD
+- McDonald-Kreitman (MK) Test
+    - TBD
+- HKA test (Hudson, Kreitman and Aguade)
+    - TBD
+- Descriptive statistics, Tests for Selection & Demographic Changes
+    - [Tajima's D, Fu's FS, Fay and Wu's H, and Zeng et al's E](http://darwin.eeb.uconn.edu/eeb348/lecturenotes/molevol-tajima.pdf) 
+    - Site Frequency Spectrum
+- Genetic Differentiation among Populations (Fst)
+- Test Using LD and Haplotype Structure
 
-McDonald-Kreitman (MK) Test
-- TBD
+#### Molecular Evolution of Loci that are not Independent
 
-HKA test (Hudson, Kreitman and Aguade)
-- TBD
-
-Descriptive statistics, Tests for Selection & Demographic Changes
-- [Tajima's D, Fu's FS, Fay and Wu's H, and Zeng et al's E](http://darwin.eeb.uconn.edu/eeb348/lecturenotes/molevol-tajima.pdf)
-- Site Frequency Spectrum
-
-Genetic Differentiation among Populations (Fst)
-
-Test Using LD and Haplotype Structure
-
-**Concept:** Molecular Evolution of Loci that are not Independent
-
-Genetic hitch-hiking due to background selection or selective sweep
-- TBD
-
-Gametic disequilibrium and rates of divergence
-- TBD
+- Genetic hitch-hiking due to background selection or selective sweep
+    - TBD
+- Gametic disequilibrium and rates of divergence
+    - TBD
 
 ===
 
-### Population Genetics
+## Population Genetics
 
-** Concept:**
+
 
 ===
 
-### Coalescence
+## Coalescence
 
-**Concept:** Coalescence
+#### Coalescence
 
-Coalescent Theory
- - [Coalescent Theory: An Introduction](http://www.roberts-publishers.com/authors/wakeley-john/coalescent-theory.html) by John Wakeley (2009)
-    - Chapter 1: Gene Genealogies and Genetic Data
-    - Chapter 2: Probability Theory for the Coalescent
-    - Chapter 3: The Coalescent
-    - Chapter 4: Neutral Mutations and Genetic Polymorphisms
-- Richard R. Hudson (1991). Gene genealogies and the coalescent process.
+- Coalescent Theory
+    - [Coalescent Theory: An Introduction](http://www.roberts-publishers.com/authors/wakeley-john/coalescent-theory.html) by John Wakeley (2009)
+        - Chapter 1: Gene Genealogies and Genetic Data
+        - Chapter 2: Probability Theory for the Coalescent
+        - Chapter 3: The Coalescent
+        - Chapter 4: Neutral Mutations and Genetic Polymorphisms
+    - Richard R. Hudson (1991). Gene genealogies and the coalescent process.
 
-**Tools:** 
+#### Tools 
 - [Richard Hudson's `ms`](http://home.uchicago.edu/rhudson1/source/mksamples.html) - Program for generating samples under neutral models
 
 ===
 
-### Natural Selection
-** Concept:**
+## Natural Selection
+
