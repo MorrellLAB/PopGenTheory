@@ -12,9 +12,7 @@ Here are some long term goals for the discussion:
 
 # Syllabus
 
-===
-
-#### Molecular Evolution
+### Molecular Evolution
 
 **Concept:** Neutral Theory
 
@@ -26,7 +24,7 @@ Here are some long term goals for the discussion:
 
 ===
 
-#### Population Genetics
+### Population Genetics
 
 **Associated material:**
 
@@ -34,7 +32,7 @@ Here are some long term goals for the discussion:
 
 ===
 
-#### Coalescent Theory
+### Coalescent Theory
 
 **Concept:**
 
@@ -46,4 +44,4 @@ Here are some long term goals for the discussion:
 
 ===
 
-#### Natural Selection
+### Natural Selection
