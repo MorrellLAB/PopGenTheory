@@ -16,10 +16,12 @@
 
 **Authors:** Masatoshi Nei and Sudhir Kumar
 
+**Tools:** [Richard Hudson's MS](http://home.uchicago.edu/rhudson1/source/mksamples.html)
+
 Discussion leader: 
 - **Colin:** Section 12.1 & 12.2
-- **Li:** Section 12.3 & 12.4
-- **Chaochih:** Section 12.5
+- **Li:** Section 12.3 & 12.4, Hudson's MS program 
+- **Chaochih:** Section 12.5, Hudson's MS program
 - **Shawn:** Section 12.6
 
 ===
