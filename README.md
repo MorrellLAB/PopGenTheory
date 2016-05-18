@@ -24,6 +24,12 @@ Discussion leader:
 - **Chaochih:** Section 12.5, Hudson's MS program
 - **Shawn:** Section 12.6
 
+**Additional Reading:**
+- [Nielson (2005) Molecular Signatures of Natural Selection](http://isites.harvard.edu/fs/docs/icb.topic903787.files/Nielsen%202005.pdf)
+- [Holsinger & Weir (2009) Genetics in geographically structured populations: defining, estimating and interpreting FST](http://www.nature.com/nrg/journal/v10/n9/pdf/nrg2611.pdf)
+- [Fumio Tajima (1989) Statistical Method for Testing the Neutral Mutation Hypothesis by DNA Polymorphism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1203831/pdf/ge1233585.pdf)
+- [McDonald & Kreitman (1991) Adaptive protein evolution at the *Adh* locus is *Drosophila*](http://www.nature.com/nature/journal/v351/n6328/pdf/351652a0.pdf)
+
 ===
 
 #### TBD
