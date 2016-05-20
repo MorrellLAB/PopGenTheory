@@ -1,5 +1,7 @@
 # PopGenTheory
 
+[![Join the chat at https://gitter.im/MorrellLAB/PopGenTheory](https://badges.gitter.im/MorrellLAB/PopGenTheory.svg)](https://gitter.im/MorrellLAB/PopGenTheory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is this discussion group about?
  - Centered on Population Genetics and Evolutionary Genetics Theory
  - Focused on reading classic literature, understanding modern tools and their applications, and interpretating results
