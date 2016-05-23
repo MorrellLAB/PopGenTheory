@@ -34,16 +34,3 @@ Discussion leader:
 
 ===
 
-#### TBD
-
-Material: TBD
-
-Discussion leader: TBD
-
-===
-
-#### TBD
-
-Material: TBD
-
-Discussion leader: TBD 
