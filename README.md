@@ -21,6 +21,7 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 **Tools:** [Richard Hudson's MS](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 
 Discussion leader:
+
 **Adam:** Hudson's MS program
 
 ===
