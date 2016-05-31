@@ -14,7 +14,7 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 ===
 
-#### June 1 2016
+#### June 1, 2016
 
 **Material:** Come with various scenarios to simulate.
 
