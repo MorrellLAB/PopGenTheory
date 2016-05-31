@@ -16,7 +16,7 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 #### June 1 2016
 
-**Material:** Come with examples of scenarios to simulate.
+**Material:** Come with various scenarios to simulate.
 
 **Tools:** [Richard Hudson's MS](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 
