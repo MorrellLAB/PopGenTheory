@@ -20,9 +20,7 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 **Tools:** [Richard Hudson's MS](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 
-**Discussion leader:**
-
-Adam: Hudson's MS program
+**Discussion leader:** Adam - Hudson's MS program
 
 ===
 
@@ -34,11 +32,11 @@ Adam: Hudson's MS program
 
 **Tools:** [Richard Hudson's MS](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 
-**Discussion leader:** 
-- Colin: Section 12.1 & 12.2
-- Li: Section 12.3 & 12.4, Hudson's MS program 
-- Chaochih: Section 12.5, Hudson's MS program
-- Shawn: Section 12.6
+**Discussion leaders:** 
+- Colin - Section 12.1 & 12.2
+- Li - Section 12.3 & 12.4, Hudson's MS program 
+- Chaochih - Section 12.5, Hudson's MS program
+- Shawn - Section 12.6
 
 **Supplemental Reading:**
 - [Nielson (2005) Molecular Signatures of Natural Selection](http://isites.harvard.edu/fs/docs/icb.topic903787.files/Nielsen%202005.pdf)
