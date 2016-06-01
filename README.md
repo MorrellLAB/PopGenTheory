@@ -14,6 +14,19 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 ===
 
+#### June 8, 2016
+
+**Material:** Molecular Evolution and Phylogenetics: Ch 12.4, 12.5 & 12.6
+
+**Authors:** Masatoshi Nei and Sudhir Kumar
+
+**Discussion leaders:** 
+- Li - Section 12.4
+- Chaochih - Section 12.5
+- Shawn - Section 12.6
+
+===
+
 #### June 1, 2016
 
 **Material:** Come with various scenarios to simulate.
@@ -26,17 +39,13 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 #### May 25, 2016
 
-**Material:** Molecular Evolution and Phylogenetics: Ch 12 
+**Material:** Molecular Evolution and Phylogenetics: Ch 12.1, 12.2 & 12.3 
 
 **Authors:** Masatoshi Nei and Sudhir Kumar
 
-**Tools:** [Richard Hudson's MS](http://home.uchicago.edu/rhudson1/source/mksamples.html)
-
 **Discussion leaders:** 
 - Colin - Section 12.1 & 12.2
-- Li - Section 12.3 & 12.4, Hudson's MS program 
-- Chaochih - Section 12.5, Hudson's MS program
-- Shawn - Section 12.6
+- Li - Section 12.3
 
 **Supplemental Reading:**
 - [Nielson (2005) Molecular Signatures of Natural Selection](http://isites.harvard.edu/fs/docs/icb.topic903787.files/Nielsen%202005.pdf)
