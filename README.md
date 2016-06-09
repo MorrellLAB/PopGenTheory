@@ -16,6 +16,8 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 #### June 14, 2016
 
+**NOTE Special Date:** Tuesday 10am-12pm
+
 **Material:** 
 - [McDonald & Kreitman (1991) Adaptive protein evolution at the *Adh* locus is *Drosophila*](http://www.nature.com/nature/journal/v351/n6328/pdf/351652a0.pdf)
 - [Hudson, Kreitman and Aguade (1987) A Test of Neutral Molecular Evolution Based on Nucleotide Data](http://www.genetics.org/content/genetics/116/1/153.full.pdf)
@@ -28,7 +30,7 @@ Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
 
 #### June 8, 2016
 
-**Material:** Molecular Evolution and Phylogenetics: Ch 12.4, 12.5 & 12.6
+**Material:** Molecular Evolution and Phylogenetics: Ch 12.4, 12.5 & 12.6 
 
 **Authors:** Masatoshi Nei and Sudhir Kumar
 
