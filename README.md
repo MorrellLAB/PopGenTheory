@@ -10,7 +10,17 @@
 
 ### Schedule
 
-Meeting times are Wednesdays from 10am-12pm in 409 Borlaug Hall.
+Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
+
+===
+
+#### July 6, 2016
+
+**Material:** [Fumio Tajima (1989) Statistical Method for Testing the Neutral Mutation Hypothesis by DNA Polymorphism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1203831/pdf/ge1233585.pdf)
+
+**Discussion leaders:**
+- Li
+- Shawn
 
 ===
 
