@@ -18,4 +18,4 @@ Below is a collection of literature we could include in the discussion. It is or
 
 #### Fst
 
-- [Genetics in Geographically Structured Populations: Defining, Estimating, and Interpreting Fst.  Nature Reviews Genetics](Genetics in geographically structured populations: defining, estimating and interpreting FST)
+- [Genetics in Geographically Structured Populations: Defining, Estimating, and Interpreting Fst.  Nature Reviews Genetics](http://www.nature.com.ezp2.lib.umn.edu/nrg/journal/v10/n9/pdf/nrg2611.pdf)
