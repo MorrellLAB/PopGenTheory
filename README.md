@@ -6,13 +6,21 @@
  - Centered on Population Genetics and Evolutionary Genetics Theory
  - Focused on reading classic literature, understanding modern tools and their applications, and interpretating results
 
-===
+---
 
 ### Schedule
 
 Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 
-===
+---
+
+#### August 10, 2016
+
+**Material:** [Akey et al (2004) Population History and Natural Selection Shape Patterns of Genetic Variation in 132 Genes. PLoS Biol](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC515367/)
+
+**Discussion leader:** Colin
+
+---
 
 #### July 13, 2016
 
@@ -22,7 +30,7 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 - Li
 - Shawn
 
-===
+---
 
 #### June 14, 2016
 
@@ -36,7 +44,7 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 - Shawn - HKA (1987)
 - Alex - McDonald & Kreitman (1991)
 
-===
+---
 
 #### June 8, 2016
 
@@ -49,7 +57,7 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 - Chaochih - Section 12.5
 - Shawn - Section 12.6
 
-===
+---
 
 #### June 1, 2016
 
@@ -59,7 +67,7 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 
 **Discussion leader:** Adam - Hudson's MS program
 
-===
+---
 
 #### May 25, 2016
 
@@ -77,5 +85,5 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 - [Fumio Tajima (1989) Statistical Method for Testing the Neutral Mutation Hypothesis by DNA Polymorphism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1203831/pdf/ge1233585.pdf)
 - [McDonald & Kreitman (1991) Adaptive protein evolution at the *Adh* locus is *Drosophila*](http://www.nature.com/nature/journal/v351/n6328/pdf/351652a0.pdf)
 
-===
+---
 
