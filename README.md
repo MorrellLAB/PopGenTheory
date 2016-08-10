@@ -14,6 +14,18 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 
 ---
 
+#### August 17, 2016
+
+**Material:** [Hallatschek & Nelson (2007) Gene surfing in expanding populations](http://ac.els-cdn.com/S0040580907000937/1-s2.0-S0040580907000937-main.pdf?_tid=d2211d90-5f30-11e6-9c65-00000aacb361&acdnat=1470857577_1a338e07d3870942e6cc276cc835a76f)
+
+**Discussion leader:** Alex Harkness
+
+**Supplemental Reading:**
+- [Messer & Petrov (2013) Population genomics of rapid adaptation by soft selective sweeps](https://petrov.stanford.edu/pdfs/93.pdf)
+- [Excoffier & Ray (2008) Surfing during population expansions promotes genetic revolutions and structuration](http://ac.els-cdn.com/S0169534708001675/1-s2.0-S0169534708001675-main.pdf?_tid=c0290174-5f31-11e6-9122-00000aab0f27&acdnat=1470857976_a228ec9b2f85de686c5ad93011ca78b6)
+
+---
+
 #### August 10, 2016
 
 **Material:** [Akey et al (2004) Population History and Natural Selection Shape Patterns of Genetic Variation in 132 Genes. PLoS Biol](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC515367/)
