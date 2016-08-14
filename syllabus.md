@@ -46,7 +46,19 @@ Here are some long term goals for the discussion:
 
 ===
 
-## Population Genetics
+## Population Structure
+- Inbreeding
+- Population subdivision
+    - Wright's F stats
+    - AMOVA
+    - Nei's D
+- Models of population structure
+    - Continet-island model
+    - Two island model
+    - Infinite island model
+    - Stepping-stone and metapopulation models
+- Wahlund effect
+- The impact of population structure on genealogical branching
 
 
 
