@@ -14,6 +14,14 @@ Meeting times are **Wednesdays from 10am-12pm** in 409 Borlaug Hall.
 
 ---
 
+#### August 24, 2016
+
+**Material:** [Holsinger & Weir (2009) Genetics in geographically structured populations: defining, estimating and interpreting FST. Nature Reviews Genetics.](http://www.nature.com/nrg/journal/v10/n9/pdf/nrg2611.pdf)
+
+**Discussion leader:** Colin
+
+---
+
 #### August 17, 2016
 
 **Material:** [Hallatschek & Nelson (2007) Gene surfing in expanding populations](http://ac.els-cdn.com/S0040580907000937/1-s2.0-S0040580907000937-main.pdf?_tid=d2211d90-5f30-11e6-9c65-00000aacb361&acdnat=1470857577_1a338e07d3870942e6cc276cc835a76f)
