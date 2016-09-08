@@ -14,6 +14,14 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
+#### September 14, 2016
+
+**Material:** Chapter 4 from *Population Genetics* by Matthew Hamilton
+
+**Discussion leader:** Marisa Miller
+
+---
+
 #### September 7, 2016
 
 **Material:** [Zhai, Nielsen, and Slatkin (2009) An Investigation of the Statistical Power of Neutrality Tests Based on Comparative and Population Genetic Data.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727393/pdf/msn231.pdf)
