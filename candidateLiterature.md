@@ -44,6 +44,8 @@ Below is a collection of literature we could include in the discussion. It is or
 
 - [Zeng, Fu, Shi and Wu (2006) Statistical Tests for Detecting Positive Selection by Utilizing High-Frequency Variants. Genetics](http://www.genetics.org/content/genetics/174/3/1431.full.pdf)
 
+---
+
 #### Genetic Drift and Eff. Pop. size
 
 - [Kliman, Sheehy, and Schultz (2008) Genetic Drift and Effective Population Size.  Nature Education](http://www.nature.com/scitable/topicpage/genetic-drift-and-effective-population-size-772523)
