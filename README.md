@@ -14,6 +14,14 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
+#### September 21, 2016
+
+**Material:** Chapter 4 from *Population Genetics* by Matthew Hamilton
+
+**Discussion leader:** Marisa Miller
+
+---
+
 #### September 14, 2016
 
 **Material:** Chapter 4 from *Population Genetics* by Matthew Hamilton
