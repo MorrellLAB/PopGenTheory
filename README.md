@@ -14,6 +14,15 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
+#### September 28, 2016
+
+**Material:** Chapter 4 from *Population Genetics* by Matthew Hamilton
+- We will start with the Wahlund Effect on p. 129
+
+**Discussion leader:** Li Lei
+
+---
+
 #### September 21, 2016
 
 **Material:** Chapter 4 from *Population Genetics* by Matthew Hamilton
