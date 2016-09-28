@@ -14,6 +14,14 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
+#### October 5, 2016
+
+**Material:** [Charlesworth (2009) Effective population size and patterns of molecular evolution and variation.](http://www.nature.com/nrg/journal/v10/n3/pdf/nrg2526.pdf)
+
+**Discussion leader:** Chaochih Liu
+
+---
+
 #### September 28, 2016
 
 **Material:** Chapter 4 from *Population Genetics* by Matthew Hamilton
