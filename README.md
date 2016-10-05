@@ -14,6 +14,32 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
+#### October 26, 2016
+
+**Material:** [H.J. Muller (1964) The relation of recombination to mutational advance.](http://ac.els-cdn.com/0027510764900478/1-s2.0-0027510764900478-main.pdf?_tid=d37a9c06-8b14-11e6-b4a7-00000aab0f6c&acdnat=1475683404_21af3e279e989e02983cd0d4a7c6d4d8)
+
+**Discussion leader:** Colin Pierce
+
+**Supplemental Reading:** [H.J. Muller (1932) Some Genetic Aspects of Sex.](http://www.jstor.org/stable/pdf/2456922.pdf)
+
+---
+
+#### October 19, 2016
+
+**Material:** [Hill & Robertson (1966) The effect of linkage on limits to artificial selection.](https://files.zotero.net/3293501053/document%281%29.pdf)
+
+**Discussion leader:** Li Lei
+
+---
+
+#### October 12, 2016
+
+**Material:** [Eyre-Walker & Keightley (2007) The distribution of fitness effects of new mutations.](http://www.nature.com/nrg/journal/v8/n8/pdf/nrg2146.pdf)
+
+**Discussion leader:** Colin Pierce
+
+---
+
 #### October 5, 2016
 
 **Material:** [Charlesworth (2009) Effective population size and patterns of molecular evolution and variation.](http://www.nature.com/nrg/journal/v10/n3/pdf/nrg2526.pdf)
@@ -59,7 +85,7 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 **Material:** [Holsinger & Weir (2009) Genetics in geographically structured populations: defining, estimating and interpreting FST. Nature Reviews Genetics.](http://www.nature.com/nrg/journal/v10/n9/pdf/nrg2611.pdf)
 
-**Discussion leader:** Colin
+**Discussion leader:** Colin Pierce
 
 ---
 
@@ -79,7 +105,7 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 **Material:** [Akey et al (2004) Population History and Natural Selection Shape Patterns of Genetic Variation in 132 Genes. PLoS Biol](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC515367/)
 
-**Discussion leader:** Colin
+**Discussion leader:** Colin Pierce
 
 ---
 
@@ -137,7 +163,7 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 **Authors:** Masatoshi Nei and Sudhir Kumar
 
 **Discussion leaders:** 
-- Colin - Section 12.1 & 12.2
+- Colin Pierce - Section 12.1 & 12.2
 - Li - Section 12.3
 
 **Supplemental Reading:**
