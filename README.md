@@ -14,7 +14,7 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
-#### October 26, 2016
+#### November 2, 2016
 
 **Material:** [H.J. Muller (1964) The relation of recombination to mutational advance.](http://ac.els-cdn.com/0027510764900478/1-s2.0-0027510764900478-main.pdf?_tid=d37a9c06-8b14-11e6-b4a7-00000aab0f6c&acdnat=1475683404_21af3e279e989e02983cd0d4a7c6d4d8)
 
@@ -24,11 +24,17 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
-#### October 19, 2016
+#### October 26, 2016
 
 **Material:** [Hill & Robertson (1966) The effect of linkage on limits to artificial selection.](https://files.zotero.net/3293501053/document%281%29.pdf)
 
 **Discussion leader:** Li Lei
+
+---
+
+#### October 19, 2016
+
+No discussion this week.
 
 ---
 
