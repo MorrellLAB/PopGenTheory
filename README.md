@@ -26,7 +26,7 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 #### October 26, 2016
 
-**Material:** [Hill & Robertson (1966) The effect of linkage on limits to artificial selection.](https://files.zotero.net/3293501053/document%281%29.pdf)
+**Material:** [Hill & Robertson (1966) The effect of linkage on limits to artificial selection.](https://www-cambridge-org.ezp2.lib.umn.edu/core/services/aop-cambridge-core/content/view/5CCFE11C1F8108242ED02AEC8BA5DD50/S0016672300010156a.pdf/the-effect-of-linkage-on-limits-to-artificial-selection.pdf)
 
 **Discussion leader:** Li Lei
 
