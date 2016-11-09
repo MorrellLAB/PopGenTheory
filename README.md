@@ -14,6 +14,22 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
+#### November 23, 2016
+
+**Material:** [W.J. Ewens (1972) The Sampling Theory of Selectively Neutral Alleles.](http://ac.els-cdn.com/0040580972900354/1-s2.0-0040580972900354-main.pdf?_tid=90df4460-a6a2-11e6-912a-00000aab0f6b&acdnat=1478712962_d1a9ac0b12b2066f9773e95e32f2deca)
+
+**Discussion leader:** Connor Depies
+
+---
+
+#### November 16, 2016
+
+**Material:** [Innan et al (2005) Statistical Tests of the Coalescent Model Based on the Haplotype Frequency Distribution and the Number of Segregating Sites.](http://www.sendou.soken.ac.jp/esb/innan/InnanLab/Papers/Innan_etal2005Genetics169-1763.pdf)
+
+**Discussion leader:** Chaochih Liu
+
+---
+
 #### November 9, 2016
 
 **Material:** [H.J. Muller (1964) The relation of recombination to mutational advance.](http://ac.els-cdn.com/0027510764900478/1-s2.0-0027510764900478-main.pdf?_tid=d37a9c06-8b14-11e6-b4a7-00000aab0f6c&acdnat=1475683404_21af3e279e989e02983cd0d4a7c6d4d8)
