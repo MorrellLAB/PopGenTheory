@@ -14,11 +14,17 @@ Meeting times are **Wednesdays from 9am-10:30am** in 409 Borlaug Hall.
 
 ---
 
-#### November 30, 2016
+#### December 7, 2016
 
 **Material:** [W.J. Ewens (1972) The Sampling Theory of Selectively Neutral Alleles.](http://ac.els-cdn.com/0040580972900354/1-s2.0-0040580972900354-main.pdf?_tid=90df4460-a6a2-11e6-912a-00000aab0f6b&acdnat=1478712962_d1a9ac0b12b2066f9773e95e32f2deca)
 
 **Discussion leader:** Connor Depies
+
+---
+
+#### November 30, 2016
+
+No discussion this week.
 
 ---
 
