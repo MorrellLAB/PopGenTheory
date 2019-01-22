@@ -8,7 +8,7 @@
 
 ### Schedule
 
-Meeting times are **Tuesdays from 11am-12:00pm** in 409 Borlaug Hall.
+Meeting times are **Tuesdays from 11:00 AM-12:00 PM** in 409 Borlaug Hall.
 
 ---
 
