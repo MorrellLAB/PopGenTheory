@@ -18,7 +18,7 @@ The first 4 weeks, we will focus on PopGen basics and read through [Graham Coop'
 [Graham Coop's book on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 1 Introduction & Ch 2 Allele and Genotype Frequencies
 
 #### February 12, 2019
-[Graham Coop's book on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 3 Genetic Drift and Neutral Diversity & Ch 5 The Response to Phenotypic Selection
+[Graham Coop's book on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 3 Genetic Drift and Neutral Diversity
 
 #### February 19, 2019
 [Graham Coop's book on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 6 One-Locus Models of Selection & Ch 7 The Impact of Genetic Drift on Selected Alleles
