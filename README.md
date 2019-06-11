@@ -1,6 +1,6 @@
 # PopGenTheory Discussion Group
 
-Meeting times are **Tuesdays from 11:00 AM-12:00 PM** in 409 Borlaug Hall.
+Meeting times are **Thursdays from 1:00 PM-2:00 PM** in 409 Borlaug Hall.
 
 ### What is this discussion group?
 - Informal discussion centered on Population Genetics and Evolutionary Genetics Theory
@@ -8,50 +8,42 @@ Meeting times are **Tuesdays from 11:00 AM-12:00 PM** in 409 Borlaug Hall.
 
 ### General Plan
 
-The first 4 weeks, we will focus on PopGen basics and read through [Graham Coop's Notes on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) two chapters per week. After that, we will work through [Matthew Hahn's Molecular Population Genetics book](https://global.oup.com/academic/product/molecular-population-genetics-9780878939657?cc=us&lang=en&) one chapter per week. Please see schedule below.
+We will start with reading some papers, then transition into reading through a book. We are still deciding which book to read, so please send suggestions!
 
 ---
 
-## Spring 2019 Schedule
+## Summer 2019 Schedule
 
-#### February 5, 2019
-[Graham Coop's Notes on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 1 Introduction & Ch 2 Allele and Genotype Frequencies
+#### June 20, 2019
+Hill WG, Robertson A 1966. The effect of linkage on limits to artificial selection. Genetics Research 8: 269–294.
+DOI: https://doi.org/10.1017/S0016672300010156
 
-#### February 12, 2019
-[Graham Coop's Notes on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 3 Genetic Drift and Neutral Diversity
+#### June 27, 2019
+Casillas S, Barbadilla A 2017. Molecular Population Genetics. Genetics 205: 1003–1035. DOI: https://doi.org/10.1534/genetics.116.196493
 
-#### February 19, 2019
-[Graham Coop's Notes on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 6 One-Locus Models of Selection & Ch 7 The Impact of Genetic Drift on Selected Alleles
+#### July 4, 2019
+Break: Happy July 4th!!!
 
-#### February 26, 2019
-[Graham Coop's Notes on Population Genetics](https://github.com/cooplab/popgen-notes/blob/master/popgen_notes.pdf) - Ch 8 The Effects of Linked Selection & Ch 9 Interaction of Multiple Selected Loci
+#### July 11, 2019
+TBD
 
-#### March 5, 2019
-Molecular Population Genetics - Ch 1 Models of Evolution
+#### July 18, 2019
+Break: multiple people traveling
 
-#### March 12, 2019
-Molecular Population Genetics - Ch 2 Experimental Design
+#### July 25, 2019
+Break: multiple people traveling
 
-#### March 19, 2019
-Molecular Population Genetics - Ch 3 Describing Variation
+#### August 1, 2019
+TBD
 
-#### March 26, 2019
-Molecular Population Genetics - Ch 4 Recombination
+#### August 8, 2019
+TBD
 
-#### April 2, 2019
-Molecular Population Genetics - Ch 5 Population Structure
+#### August 15, 2019
+TBD
 
-#### April 9, 2019
-Molecular Population Genetics - Ch 6 The Coalescent
+#### August 22, 2019
+TBD
 
-#### April 16, 2019
-Molecular Population Genetics - Ch 7 Direct Selection
-
-#### April 23, 2019
-Molecular Population Genetics - Ch 8 Linked Selection
-
-#### April 30, 2019
-Molecular Population Genetics - Ch 9 Demographic History
-
-#### May 7, 2019
-Molecular Population Genetics - Ch 10 Population Genomics
+#### August 29, 2019
+TBD
