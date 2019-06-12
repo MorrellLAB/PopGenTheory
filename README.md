@@ -8,24 +8,31 @@ Meeting times are **Thursdays from 1:00 PM-2:00 PM** in 409 Borlaug Hall.
 
 ### General Plan
 
-We will start with reading some papers, then transition into reading through a book. We are still deciding which book to read, so please send suggestions!
+We will discuss [*Fundamentals of Molecular Evolution 2nd Edition* by Dan Graur and Wen-Hsiung Li](https://www.amazon.com/Fundamentals-Molecular-Evolution-Dan-Graur/dp/0878932666) this summer. Please see below for a more detailed schedule.
 
 ---
 
 ## Summer 2019 Schedule
 
 #### June 20, 2019
-Hill WG, Robertson A 1966. The effect of linkage on limits to artificial selection. Genetics Research 8: 269–294.
-DOI: https://doi.org/10.1017/S0016672300010156
+Chapter 1: Genes, Genetic Codes, and Mutation.
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### June 27, 2019
-Casillas S, Barbadilla A 2017. Molecular Population Genetics. Genetics 205: 1003–1035. DOI: https://doi.org/10.1534/genetics.116.196493
+Chapter 2: Dynamics of Genes in Populations.
 
-#### July 4, 2019
-Break: Happy July 4th!!!
+*Fundamentals of Molecular Evolution 2nd Edition*
+
+#### July 3, 2019 (NOTE: Special date - Wednesday from 1:00 PM - 2:00 PM)
+Chapter 3: Evolutionary Change in Nucleotide Sequences
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### July 11, 2019
-TBD
+Chapter 4: Rates and Patterns of Nucleotide Substitution
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### July 18, 2019
 Break: multiple people traveling
@@ -34,16 +41,24 @@ Break: multiple people traveling
 Break: multiple people traveling
 
 #### August 1, 2019
-TBD
+Chapter 5: Molecular Phylogenetics
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### August 8, 2019
-TBD
+Chapter 6: Gene Duplication, Exon Shuffling, and Concerted Evolution
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### August 15, 2019
-TBD
+Chapter 7: Evolution by Transposition
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### August 22, 2019
-TBD
+Chapter 8: Genome Evolution
+
+*Fundamentals of Molecular Evolution 2nd Edition*
 
 #### August 29, 2019
 TBD
