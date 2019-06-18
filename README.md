@@ -14,7 +14,7 @@ We will discuss [*Fundamentals of Molecular Evolution 2nd Edition* by Dan Graur 
 
 ## Summer 2019 Schedule
 
-#### June 20, 2019
+#### June 19, 2019 (NOTE: Special date - Wednesday from 1:00 PM - 2:00 PM)
 Chapter 1: Genes, Genetic Codes, and Mutation.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
