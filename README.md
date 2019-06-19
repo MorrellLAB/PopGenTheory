@@ -18,15 +18,15 @@ We will discuss [*Fundamentals of Molecular Evolution 2nd Edition* by Dan Graur 
 Chapter 1: Genes, Genetic Codes, and Mutation.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### June 27, 2019
+#### June 27, 2019 - Lead by Corey Carter
 Chapter 2: Dynamics of Genes in Populations.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### July 3, 2019 (NOTE: Special date - Wednesday from 1:00 PM - 2:00 PM)
+#### July 3, 2019 - Lead by Chaochih Liu (NOTE: Special date - Wednesday from 1:00 PM - 2:00 PM)
 Chapter 3: Evolutionary Change in Nucleotide Sequences.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### July 11, 2019
+#### July 11, 2019 - Lead by Bailey Brandel
 Chapter 4: Rates and Patterns of Nucleotide Substitution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
@@ -36,19 +36,19 @@ Break: multiple people traveling
 #### July 25, 2019
 Break: multiple people traveling
 
-#### August 1, 2019
+#### August 1, 2019 - Lead by Li Lei
 Chapter 5: Molecular Phylogenetics.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 8, 2019
+#### August 8, 2019 - Lead by Skylar Wyant
 Chapter 6: Gene Duplication, Exon Shuffling, and Concerted Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 15, 2019
+#### August 15, 2019 - Lead by Corey Carter
 Chapter 7: Evolution by Transposition.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 22, 2019
+#### August 22, 2019 - Lead by Bailey Brandel
 Chapter 8: Genome Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
