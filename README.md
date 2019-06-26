@@ -18,7 +18,7 @@ We will discuss [*Fundamentals of Molecular Evolution 2nd Edition* by Dan Graur 
 Chapter 1: Genes, Genetic Codes, and Mutation.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### June 27, 2019 - Lead by Corey Carter
+#### June 27, 2019 - Lead by Skylar Wyant
 Chapter 2: Dynamics of Genes in Populations.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
