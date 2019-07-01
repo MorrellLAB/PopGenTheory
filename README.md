@@ -1,6 +1,6 @@
 # PopGenTheory Discussion Group
 
-Meeting times are **Thursdays from 1:00 PM-2:00 PM** in 409 Borlaug Hall.
+Meeting times are **Wednesdays from 1:30 PM-2:30 PM** in 409 Borlaug Hall.
 
 ### What is this discussion group?
 - Informal discussion centered on Population Genetics and Evolutionary Genetics Theory
@@ -22,35 +22,35 @@ Chapter 1: Genes, Genetic Codes, and Mutation.
 Chapter 2: Dynamics of Genes in Populations.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### July 3, 2019 - Lead by Chaochih Liu (NOTE: Special date - Wednesday from 1:00 PM - 2:00 PM)
+#### July 3, 2019 - Lead by Chaochih Liu
 Chapter 3: Evolutionary Change in Nucleotide Sequences.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### July 11, 2019 - Lead by Bailey Brandel
+#### July 10, 2019 - Lead by Bailey Brandel
 Chapter 4: Rates and Patterns of Nucleotide Substitution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### July 18, 2019
+#### July 17, 2019
 Break: multiple people traveling
 
-#### July 25, 2019
+#### July 24, 2019
 Break: multiple people traveling
 
-#### August 1, 2019 - Lead by Li Lei
+#### July 31, 2019 - Lead by Li Lei
 Chapter 5: Molecular Phylogenetics.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 8, 2019 - Lead by Skylar Wyant
+#### August 7, 2019 - Lead by Skylar Wyant
 Chapter 6: Gene Duplication, Exon Shuffling, and Concerted Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 15, 2019 - Lead by Corey Carter
+#### August 14, 2019 - Lead by Corey Carter
 Chapter 7: Evolution by Transposition.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 22, 2019 - Lead by Bailey Brandel
+#### August 21, 2019 - Lead by Bailey Brandel
 Chapter 8: Genome Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 29, 2019
+#### August 28, 2019
 TBD
