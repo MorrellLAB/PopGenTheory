@@ -36,21 +36,21 @@ Break: multiple people traveling
 #### July 24, 2019
 Break: multiple people traveling
 
-#### July 31, 2019 - Lead by Li Lei
+#### July 31, 2019 
+Break
+
+#### August 7, 2019 - Lead by Li Lei
 Chapter 5: Molecular Phylogenetics.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 7, 2019 - Lead by Skylar Wyant
+#### August 14, 2019 - Lead by Skylar Wyant
 Chapter 6: Gene Duplication, Exon Shuffling, and Concerted Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 14, 2019 - Lead by Corey Carter
+#### August 21, 2019 - Lead by Corey Carter
 Chapter 7: Evolution by Transposition.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 21, 2019 - Lead by Bailey Brandel
+#### August 28, 2019 - Lead by Bailey Brandel
 Chapter 8: Genome Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
-
-#### August 28, 2019
-TBD
