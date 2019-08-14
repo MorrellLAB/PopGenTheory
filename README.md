@@ -43,14 +43,17 @@ Break
 Chapter 5: Molecular Phylogenetics.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 14, 2019 - Lead by Skylar Wyant
+#### August 14, 2019
+Postponed
+
+#### August 21, 2019 - Lead by Skylar Wyant
 Chapter 6: Gene Duplication, Exon Shuffling, and Concerted Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 21, 2019 - Lead by Corey Carter
+#### August 28, 2019 - Lead by Chaochih Liu
 Chapter 7: Evolution by Transposition.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### August 28, 2019 - Lead by Bailey Brandel
+#### September 4, 2019  - Lead by Bailey Brandel
 Chapter 8: Genome Evolution.
 *Fundamentals of Molecular Evolution 2nd Edition*
