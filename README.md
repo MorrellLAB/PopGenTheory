@@ -54,6 +54,10 @@ Chapter 6: Gene Duplication, Exon Shuffling, and Concerted Evolution.
 Chapter 7: Evolution by Transposition.
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### September 4, 2019  - Lead by Bailey Brandel
-Chapter 8: Genome Evolution.
+#### September 4, 2019  - Lead by Li Lei
+Chapter 8: Genome Evolution. **Part I pg. 367-397**
+*Fundamentals of Molecular Evolution 2nd Edition*
+
+#### September 11, 2019 - Lead by Li Lei
+Chapter 8: Genome Evolution. **Part II pg. 397-427**
 *Fundamentals of Molecular Evolution 2nd Edition*
