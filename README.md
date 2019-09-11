@@ -57,10 +57,10 @@ Chapter 7: Evolution by Transposition.
 #### September 4, 2019
 Postponed
 
-#### September 11, 2019  - Lead by Li Lei
+#### September 12, 2019  - Lead by Li Lei
 Chapter 8: Genome Evolution. **Part I pg. 367-397**
 *Fundamentals of Molecular Evolution 2nd Edition*
 
-#### September 18, 2019 - Lead by Li Lei
+#### September 19, 2019 - Lead by Li Lei
 Chapter 8: Genome Evolution. **Part II pg. 397-427**
 *Fundamentals of Molecular Evolution 2nd Edition*
