@@ -65,6 +65,12 @@ Chapter 12: Recurrent Selection<br/>
 Chapter 13: Heterosis and Hybrid Prediction<br/>
 *Breeding for Quantitative Traits in Plants 3rd Edition*
 
+#### December 27, 2019
+Break! Happy holidays!
+
+#### January 3, 2019
+Break! Happy New Year!
+
 #### January XX, 2020 - Lead by Chaochih Liu
 Chapter 14: Selection for Multiple Traits and Chapter 15: Epilogue<br/>
 *Breeding for Quantitative Traits in Plants 3rd Edition*
