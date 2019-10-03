@@ -18,7 +18,7 @@ We will discuss [*Breeding for Quantitative Traits in Plants* by Rex Bernardo](h
 Chapter 1: Introduction and Chapter 2: Genetics of Breeding Populations<br/>
 *Breeding for Quantitative Traits in Plants*
 
-#### October 4, 2019 - Lead by Skylar Wyant
+#### October 4, 2019 - Lead by Skylar Wyant (Note: Special meeting time 3:00 PM CT)
 Chapter 3: Phenotypic and Genotypic Values<br/>
 *Breeding for Quantitative Traits in Plants*
 
