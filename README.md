@@ -37,31 +37,30 @@ Chapter 5: Mapping Quantitative Trait Loci<br/>
 Chapter 6: Phenotypic and Genetic Variances<br/>
 *Breeding for Quantitative Traits in Plants*
 
-#### November 8, 2019 - Lead by Li Lei
+#### November 8, 2019 
+Break!
+
+#### November 15, 2019 - Lead by Li Lei
 Chapter 7: Estimating Genetic Variances<br/>
 *Breeding for Quantitative Traits in Plants*
 
-#### November 15, 2019 - Lead by Chaochih Liu
+#### November 22, 2019 - Lead by Chaochih Liu
 Chapter 8: Genotype x Environment Interaction<br/>
-*Breeding for Quantitative Traits in Plants*
-
-#### November 22, 2019 - Lead by Skylar Wyant
-Chapter 9: Inbred and Testcross Selection<br/>
 *Breeding for Quantitative Traits in Plants*
 
 #### November 29, 2019
 Break! Happy Thanksgiving!
 
-#### December 6, 2019 - Lead by Li Lei
+#### December 6, 2019 - Lead by Skylar Wyant
+Chapter 9: Inbred and Testcross Selection<br/>
+*Breeding for Quantitative Traits in Plants*
+
+#### December 13, 2019 - Lead by Li Lei
 Chapter 10: Best Linear Unbiased Prediction<br/>
 *Breeding for Quantitative Traits in Plants 3rd Edition*
 
-#### December 13, 2019 - Lead by Chaochih Liu
+#### December 20, 2019 - Lead by Chaochih Liu
 Chapter 11: Mixed-Model Analysis with Genomewide Markers<br/>
-*Breeding for Quantitative Traits in Plants 3rd Edition*
-
-#### December 20, 2019 - Lead by Skylar Wyant
-Chapter 12: Recurrent Selection<br/>
 *Breeding for Quantitative Traits in Plants 3rd Edition*
 
 #### December 27, 2019
@@ -69,6 +68,10 @@ Break! Happy holidays!
 
 #### January 3, 2019
 Break! Happy New Year!
+
+#### January XX, 2020 - Lead by Skylar Wyant
+Chapter 12: Recurrent Selection<br/>
+*Breeding for Quantitative Traits in Plants 3rd Edition*
 
 #### January XX, 2020 - Lead by Li Lei
 Chapter 13: Heterosis and Hybrid Prediction<br/>
