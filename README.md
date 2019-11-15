@@ -1,6 +1,6 @@
 # PopGenTheory Discussion Group
 
-Meeting times are **Fridays from 1:30 PM-2:30 PM**. We will be meeting via Zoom Video but can reserve a room if needed.
+Meeting times are **Fridays from 1:30 PM-2:30 PM CST**. We will be meeting via Zoom Video but can reserve a room if needed.
 
 ### What is this discussion group?
 - Informal discussion centered on Population Genetics, Evolutionary Genetics, and Quantitative Genetics Theory
@@ -40,7 +40,7 @@ Chapter 6: Phenotypic and Genetic Variances<br/>
 #### November 8, 2019 
 Break!
 
-#### November 15, 2019 - Lead by Li Lei
+#### November 15, 2019 - Lead by Li Lei (NOTE: Special time 3:00 PM CST)
 Chapter 7: Estimating Genetic Variances<br/>
 *Breeding for Quantitative Traits in Plants*
 
