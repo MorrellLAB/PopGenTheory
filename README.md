@@ -1,10 +1,6 @@
 # PopGenTheory Discussion Group
 
-<<<<<<< HEAD
-Meeting times are **Fridays from 3:30 PM-4:30 PM** in 409 Borlaug Hall.
-=======
-Meeting times are **Fridays from 3:30 PM-4:30 PM CST**. We will be meeting via Zoom Video but can reserve a room if needed.
->>>>>>> bc02550849bf0ee488132c3ed44deae5f99d9680
+Meeting times are **Fridays from 3:30-4:30 pm CT (1:30-2:30 pm PT)** in 409 Borlaug Hall and we will have a Zoom meeting link for others to join remotely.
 
 ### What is this discussion group?
 
