@@ -1,6 +1,6 @@
 # PopGenTheory Discussion Group
 
-Meeting times are **Fridays from 3:30-4:30 pm CT (1:30-2:30 pm PT)** in 409 Borlaug Hall and we will have a Zoom meeting link for others to join remotely.
+Meeting times are **Mondays from 3:30-4:30 pm CT (1:30-2:30 pm PT)** in 409 Borlaug Hall. You can also join remotely via Zoom meeting ID 658-235-858 or [join URL](https://umn.zoom.us/j/658235858).
 
 ### What is this discussion group?
 
@@ -15,37 +15,37 @@ We will discuss [*Statistical Population Genomics*](https://link.springer.com/bo
 
 ## Spring 2020 Schedule
 
-#### February XX, 2020 - Group Discussion
+#### February 24, 2020 - Group Discussion
 
 A Population Gennomics Lexicon.<br/>
 *Statistical Population Genomics*
 
-#### February XX, 2020 - Lead by TBD
+#### March 2, 2020 - Lead by TBD
 
 Processing and Analyzing Multiple Genomes Alignments with MafFilter.<br/>
 *Statistical Population Genomics*
 
-#### February XX, 2020 - Lead by TBD
+#### March 9, 2020 - Lead by TBD
 
 Exploring Population Structure with Admixture Models and Principal Component Analysis.<br/>
 *Statistical Population Genomics*
 
-#### March XX, 2020 - Lead by TBD
+#### March 16, 2020 - Lead by TBD
 
 Detecting Positive Selection in Populations Using Genetic Data.<br/>
 *Statistical Population Genomics*
 
-#### March XX, 2020 - Lead by TBD
+#### March 23, 2020 - Lead by TBD
 
 polyDFE: Inferring the Distribution of Fitness Effects and Properties of Beneficial Mutations from Polymorphism Data.<br/>
 *Statistical Population Genomics*
 
-#### March XX, 2020 - Lead by TBD
+#### March 30, 2020 - Lead by TBD
 
 MSMC and MSMC2: The Multiple Sequentially Markovian Coalescent.<br/>
 *Statistical Population Genomics*
 
-#### March XX, 2020 - Lead by TBD
+#### April XX, 2020 - Lead by TBD
 
 Ancestral Population Genomics with Jocx, a Coalescent Hidden Markov Model.<br/>
 *Statistical Population Genomics*
@@ -65,7 +65,7 @@ Inference of Ancestral Recombination Graphs Using ARGweaver.<br/>
 Population Genomics of Transitions to Selfing in Brassicaceae Model Systems.<br/>
 *Statistical Population Genomics*
 
-#### April XX, 2020 - Lead by TBD
+#### May XX, 2020 - Lead by TBD
 
 Genomics of Long- and Short-Term Adaptation in Maize and Teosintes.<br/>
 *Statistical Population Genomics*
