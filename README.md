@@ -17,7 +17,7 @@ We will discuss [*Statistical Population Genomics*](https://link.springer.com/bo
 
 #### February 24, 2020 - Group Discussion
 
-A Population Gennomics Lexicon.<br/>
+A Population Genomics Lexicon.<br/>
 *Statistical Population Genomics*
 
 #### March 2, 2020 - Lead by TBD
