@@ -1,6 +1,6 @@
 # PopGenTheory Discussion Group
 
-Meeting times are **Mondays from 3:30-4:30 pm CT (1:30-2:30 pm PT)** in 409 Borlaug Hall. You can also join remotely via Zoom meeting ID 658-235-858 or [join URL](https://umn.zoom.us/j/658235858).
+Meeting times are **Mondays from 3:30-4:30 pm CT (1:30-2:30 pm PT)** in 409 Borlaug Hall (UMN) or Bio Sci 3622 (UCI). You can also join remotely via Zoom meeting ID 658-235-858 or [join URL](https://umn.zoom.us/j/658235858).
 
 ### What is this discussion group?
 
