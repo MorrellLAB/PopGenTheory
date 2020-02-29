@@ -20,27 +20,31 @@ We will discuss [*Statistical Population Genomics*](https://link.springer.com/bo
 A Population Genomics Lexicon.<br/>
 *Statistical Population Genomics*
 
-#### March 2, 2020 - Lead by TBD
+#### March 2, 2020 - Postponed due to schedule conficts
+
+Break this week!
+
+#### March 9, 2020 - Group Discussion
 
 Processing and Analyzing Multiple Genomes Alignments with MafFilter.<br/>
 *Statistical Population Genomics*
 
-#### March 9, 2020 - Lead by TBD
+#### March 16, 2020 - Group Discussion
 
 Exploring Population Structure with Admixture Models and Principal Component Analysis.<br/>
 *Statistical Population Genomics*
 
-#### March 16, 2020 - Lead by TBD
+#### March 23, 2020 - Group Discussion
 
 Detecting Positive Selection in Populations Using Genetic Data.<br/>
 *Statistical Population Genomics*
 
-#### March 23, 2020 - Lead by TBD
+#### March 30, 2020 - Group Discussion
 
 polyDFE: Inferring the Distribution of Fitness Effects and Properties of Beneficial Mutations from Polymorphism Data.<br/>
 *Statistical Population Genomics*
 
-#### March 30, 2020 - Lead by TBD
+#### April XX, 2020 - Lead by TBD
 
 MSMC and MSMC2: The Multiple Sequentially Markovian Coalescent.<br/>
 *Statistical Population Genomics*
@@ -60,7 +64,7 @@ Coalescent Simulation with msprime.<br/>
 Inference of Ancestral Recombination Graphs Using ARGweaver.<br/>
 *Statistical Population Genomics*
 
-#### April XX, 2020 - Lead by TBD
+#### May XX, 2020 - Lead by TBD
 
 Population Genomics of Transitions to Selfing in Brassicaceae Model Systems.<br/>
 *Statistical Population Genomics*
